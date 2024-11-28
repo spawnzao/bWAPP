@@ -1,4 +1,5 @@
-FROM tutum/lamp:latest
+FROM gagalkoding/lamp:latest
+#FROM tutum/lamp:latest
 
 RUN rm -rf /app
 
